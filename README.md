@@ -84,6 +84,11 @@ Contains GST details by product category.
 
 ---
 
+## Notebook
+- [E-commerce Marketing Analysis Notebook](notebooks/ecommerce_marketing_analysis.ipynb)
+
+---
+
 ## Key Steps in Analysis
 - Data cleaning and preprocessing
 - Handling missing values and duplicates
